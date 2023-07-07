@@ -1,0 +1,7 @@
+[32mINFO    [0m Test_login:test_loginpage__amazon.py:15 test_login__001 started
+[32mINFO    [0m Test_login:test_loginpage__amazon.py:16 opening browser
+[32mINFO    [0m Test_login:test_loginpage__amazon.py:18 go to this url--> https://www.amazon.in/
+[32mINFO    [0m Test_login:test_loginpage__amazon.py:23 entering email or phone-->8668237241
+[32mINFO    [0m Test_login:test_loginpage__amazon.py:26 entering password-->Ajay@1234
+[32mINFO    [0m Test_login:test_loginpage__amazon.py:28 clicking on login button
+[32mINFO    [0m Test_login:test_loginpage__amazon.py:40 test_login_001 is failed

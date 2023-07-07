@@ -1,0 +1,53 @@
+2023-07-05 20:37:42,741 : INFO : Test_credentials_login : test_credentials_login_001 : 15 : login test case started
+2023-07-05 20:37:42,741 : INFO : Test_credentials_login : test_credentials_login_001 : 16 : opening browser
+2023-07-05 20:37:44,121 : INFO : Test_credentials_login : test_credentials_login_001 : 18 : go to this url-->https://www.amazon.in/
+2023-07-05 20:37:48,896 : INFO : Test_credentials_login : test_credentials_login_001 : 22 : entering email_or_phone-->8668237241
+2023-07-05 20:37:50,130 : INFO : Test_credentials_login : test_credentials_login_001 : 25 : entering password-->Ajay@1234
+2023-07-05 20:37:50,250 : INFO : Test_credentials_login : test_credentials_login_001 : 27 : clicking on login button
+2023-07-05 20:38:01,783 : INFO : Test_credentials_login : test_credentials_login_001 : 32 : clicking on menu button
+2023-07-05 20:38:02,941 : INFO : Test_credentials_login : test_credentials_login_001 : 34 : clicking on logout button
+2023-07-05 20:38:02,941 : INFO : Test_credentials_login : test_credentials_login_001 : 35 : test_login_001 is passed
+2023-07-05 20:38:07,703 : INFO : Test_credentials_login : test_credentials_login_001 : 15 : login test case started
+2023-07-05 20:38:07,704 : INFO : Test_credentials_login : test_credentials_login_001 : 16 : opening browser
+2023-07-05 20:38:09,124 : INFO : Test_credentials_login : test_credentials_login_001 : 18 : go to this url-->https://www.amazon.in/
+2023-07-05 20:38:13,895 : INFO : Test_credentials_login : test_credentials_login_001 : 22 : entering email_or_phone-->0668237241
+2023-07-05 20:38:24,283 : INFO : Test_credentials_login : test_credentials_login_001 : 15 : login test case started
+2023-07-05 20:38:24,283 : INFO : Test_credentials_login : test_credentials_login_001 : 16 : opening browser
+2023-07-05 20:38:25,809 : INFO : Test_credentials_login : test_credentials_login_001 : 18 : go to this url-->https://www.amazon.in/
+2023-07-05 20:38:30,700 : INFO : Test_credentials_login : test_credentials_login_001 : 22 : entering email_or_phone-->8668237241
+2023-07-05 20:38:31,801 : INFO : Test_credentials_login : test_credentials_login_001 : 25 : entering password-->Ajay@1230
+2023-07-05 20:38:31,910 : INFO : Test_credentials_login : test_credentials_login_001 : 27 : clicking on login button
+2023-07-05 20:38:38,478 : INFO : Test_credentials_login : test_credentials_login_001 : 41 : test case is passed
+2023-07-05 20:38:43,081 : INFO : Test_credentials_login : test_credentials_login_001 : 15 : login test case started
+2023-07-05 20:38:43,081 : INFO : Test_credentials_login : test_credentials_login_001 : 16 : opening browser
+2023-07-05 20:38:44,723 : INFO : Test_credentials_login : test_credentials_login_001 : 18 : go to this url-->https://www.amazon.in/
+2023-07-05 20:38:49,865 : INFO : Test_credentials_login : test_credentials_login_001 : 22 : entering email_or_phone-->0668237241
+2023-07-05 20:46:22,176 : INFO : Test_credentials_login : test_credentials_login_001 : 15 : login test case started
+2023-07-05 20:46:22,176 : INFO : Test_credentials_login : test_credentials_login_001 : 16 : opening browser
+2023-07-05 20:46:23,748 : INFO : Test_credentials_login : test_credentials_login_001 : 18 : go to this url-->https://www.amazon.in/
+2023-07-05 20:46:28,713 : INFO : Test_credentials_login : test_credentials_login_001 : 22 : entering email_or_phone-->8668237241
+2023-07-05 20:46:29,614 : INFO : Test_credentials_login : test_credentials_login_001 : 25 : entering password-->Ajay@1234
+2023-07-05 20:46:29,708 : INFO : Test_credentials_login : test_credentials_login_001 : 27 : clicking on login button
+2023-07-05 20:46:36,675 : INFO : Test_credentials_login : test_credentials_login_001 : 32 : clicking on menu button
+2023-07-05 20:46:37,626 : INFO : Test_credentials_login : test_credentials_login_001 : 34 : clicking on logout button
+2023-07-05 20:46:37,626 : INFO : Test_credentials_login : test_credentials_login_001 : 35 : test_login_001 is passed
+2023-07-05 20:46:37,785 : INFO : Test_credentials_login : test_credentials_login_001 : 46 : test case completed
+2023-07-05 20:46:41,595 : INFO : Test_credentials_login : test_credentials_login_001 : 15 : login test case started
+2023-07-05 20:46:41,595 : INFO : Test_credentials_login : test_credentials_login_001 : 16 : opening browser
+2023-07-05 20:46:43,223 : INFO : Test_credentials_login : test_credentials_login_001 : 18 : go to this url-->https://www.amazon.in/
+2023-07-05 20:46:48,442 : INFO : Test_credentials_login : test_credentials_login_001 : 22 : entering email_or_phone-->0668237241
+2023-07-05 20:46:57,913 : INFO : Test_credentials_login : test_credentials_login_001 : 15 : login test case started
+2023-07-05 20:46:57,913 : INFO : Test_credentials_login : test_credentials_login_001 : 16 : opening browser
+2023-07-05 20:46:59,548 : INFO : Test_credentials_login : test_credentials_login_001 : 18 : go to this url-->https://www.amazon.in/
+2023-07-05 20:47:04,705 : INFO : Test_credentials_login : test_credentials_login_001 : 22 : entering email_or_phone-->8668237241
+2023-07-05 20:47:05,664 : INFO : Test_credentials_login : test_credentials_login_001 : 25 : entering password-->Ajay@1230
+2023-07-05 20:47:05,800 : INFO : Test_credentials_login : test_credentials_login_001 : 27 : clicking on login button
+2023-07-05 20:47:12,082 : INFO : Test_credentials_login : test_credentials_login_001 : 41 : test case is passed
+2023-07-05 20:47:12,223 : INFO : Test_credentials_login : test_credentials_login_001 : 46 : test case completed
+2023-07-07 12:05:25,847 : INFO : Test_login : test_login_001 : 15 : test_login__001 started
+2023-07-07 12:05:25,847 : INFO : Test_login : test_login_001 : 16 : opening browser
+2023-07-07 12:05:30,134 : INFO : Test_login : test_login_001 : 18 : go to this url--> https://www.amazon.in/
+2023-07-07 12:05:35,106 : INFO : Test_login : test_login_001 : 23 : entering email or phone-->8668237241
+2023-07-07 12:05:35,975 : INFO : Test_login : test_login_001 : 26 : entering password-->Ajay@1234
+2023-07-07 12:05:36,074 : INFO : Test_login : test_login_001 : 28 : clicking on login button
+2023-07-07 12:05:42,657 : INFO : Test_login : test_login_001 : 40 : test_login_001 is failed
